@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+
+}
+
+.line{
+    width:100px;
+    height:10px;
+    background-color: rgb(80, 193, 201);
+    margin: 10px auto;
+}
+
+
+#apps{
+    background : linear-gradient(rgb(208, 208, 235) 0%, rgb(243, 122, 122) 50%, rgb(243, 236, 133) 100%);
+}
+
+#my_slideshow{
+
+    background-color: rgb(231, 158, 136);
+}
+
+#my_slideshow img {
+
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top:15px;
+    color:darkpink;
+    font-size:20px;
+}
